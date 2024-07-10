@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyTaskApplication</string>
+    <string name="button_to_access_menu">Button to access Menu</string>
+    <string name="tasks">Tasks</string>
 </resources>
